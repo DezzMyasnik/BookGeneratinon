@@ -1,0 +1,11 @@
+G:\BookGeneratinon\BookGeneratinon\obj\Release\Interop.LCC11.dll
+G:\BookGeneratinon\BookGeneratinon\obj\Release\BookGeneratinon.csproj.ResolveComReference.cache
+G:\BookGeneratinon\BookGeneratinon\bin\Release\BookGeneratinon.pdb
+G:\BookGeneratinon\BookGeneratinon\obj\Release\BookGeneratinon.Form1.resources
+G:\BookGeneratinon\BookGeneratinon\obj\Release\BookGeneratinon.Properties.Resources.resources
+G:\BookGeneratinon\BookGeneratinon\obj\Release\BookGeneratinon.csproj.GenerateResource.Cache
+G:\BookGeneratinon\BookGeneratinon\obj\Release\BookGeneratinon.pdb
+G:\BookGeneratinon\BookGeneratinon\bin\Release\BookGeneratinon.exe.config
+G:\BookGeneratinon\BookGeneratinon\bin\Release\BookGeneratinon.exe
+G:\BookGeneratinon\BookGeneratinon\obj\Release\BookGeneratinon.exe
+G:\BookGeneratinon\BookGeneratinon\obj\Release\BookGeneratinon.csprojResolveAssemblyReference.cache
